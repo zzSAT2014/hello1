@@ -1,0 +1,22 @@
+date 2014.7.11
+name				listnum				vocab,test												vocab,false
+zhe                 l1				A11,D7,A10,A18,C14,C8,C10,D6,B19,D2                          A11
+zhe                 l2				C7,A7,C15,D1,B7,B8,B9,A10,C5,C16							C7
+zhe                 l3				C4,A10,D4,A6,B7,A13,A4,A14,B8,A7								C4
+chongzhang          l1				B5,D1,B1,D3,B10,B16,B9,B10,A2,A6								D1
+chongzhang          l2				D3,C9,A7,C13,A4,B14,D16,B7,C6,C16								D3
+chongzhang          l3				B12,B10,D11,B5,D7,D13,C7,C1,A8,D9								B12
+zhouhan             l1				B5,D7,D14,A18,C5,C17,C6,C1,C11,B14								B5
+zhouhan             l2				D8,C12,A15,B3,B11,D7,C3,C11,A13,D9								D8
+zhouhan             l3				D12,D6,A6,C7,A4,A13,B3,B8,C6,D9									D12
+date 2014.7.11
+name				listnum				vocab,test												vocab,false
+zhe                 l1				C1,C7,C15,D11,C3,C17,B6,A17,A5,B10
+zhe                 l2				D8,D3,A14,D4,C13,A6,D15,B8,D14,B16
+zhe                 l3				B12,C11,A1,D2,D1,C12,C13,C10,C1,A11
+chongzhang          l1				D7,A10,D11,C3,A3,C17,C12,C10,D5,B8
+chongzhang          l2				A14,C7,C9,C14,A4,D7,D13,B4,C10,C11
+chongzhang          l3				A1,A14,D2,C9,D1,B8,C12,B6,B13,A9
+zhouhan             l1				C16,C7,B7,A8,B5,B15,C18,A13,A10,A1
+zhouhan             l2				A12,A15,C8,A9,D1,D15,A2,B9,A5,B7
+zhouhan             l3				C11,C12,A14,D3,C9,C10,A6,A8,A9,A11

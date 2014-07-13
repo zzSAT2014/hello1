@@ -1,0 +1,6 @@
+date 2014.7.14
+name         vocab,list        vocab,test                                vocab,false
+zhe		  	   l1			   B1,B2,B3,B4,B5								B1
+zhe 	       l2			   A1,A2,A3,A4,A5								A1,A2
+chongzhang		l3				C3,C4,C5,C6									None
+zhouhan          l4             D1,D2,D4,D6									D2

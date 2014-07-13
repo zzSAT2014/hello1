@@ -1,0 +1,3 @@
+name          sex  word,correct   word,wrong   school
+chongzhang    gay    E1             E2		guangya
+zhouhan       gay	 E5	             E5      nankai
